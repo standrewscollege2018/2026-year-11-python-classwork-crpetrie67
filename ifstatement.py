@@ -4,4 +4,4 @@ if guess < NUMBER:
 elif guess > NUMBER:
     print ("Too high")
 else:
-    print("correct")
+    print("correct"

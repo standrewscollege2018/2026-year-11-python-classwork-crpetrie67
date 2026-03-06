@@ -1,4 +1,4 @@
-Number = 3
+NUMBER2  = 3
 
 ask_guess = True
 
